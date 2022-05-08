@@ -4,7 +4,7 @@ My name is Thibault Faure, I am a French senior developer, but currently the two
 
 I've had the chance to work for various kinds of businesses. I've worked both as a fullstack and a back-end developer.
 
-I mainly use my github account to write the code related to the articles I write for Baeldung. Baeldung is the worldwide reference for tutorials on Java/Spring topics.
+I mainly use my github account to post the code related to the articles I write for Baeldung. Baeldung is the worldwide reference for tutorials on Java/Spring topics.
 
 Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/spring-autowired-field-null
