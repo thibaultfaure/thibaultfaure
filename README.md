@@ -10,6 +10,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/spring-autowired-field-null
 - https://www.baeldung.com/java-acquire-lock-by-key
 - https://www.baeldung.com/spring-injecting-all-annotated-beans
+- https://www.baeldung.com/java-scanner-usedelimiter
 
 To be continued...
 
