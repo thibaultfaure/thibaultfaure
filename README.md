@@ -16,6 +16,7 @@ Here are the articles I've written for Baeldung:
 
 I've also contributed to an improvement of the following article:
 - https://www.baeldung.com/java-single-file-source-code
+- https://www.baeldung.com/java-sealed-classes-interfaces
 
 To be continued...
 
