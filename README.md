@@ -13,6 +13,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-scanner-usedelimiter
 - https://www.baeldung.com/java-unit-test-private-methods
 - https://www.baeldung.com/git-commit-message-changes
+- https://www.baeldung.com/java-clear-stringbuilder-stringbuffer
 
 I've also contributed to an improvement of the following article:
 - https://www.baeldung.com/java-single-file-source-code
