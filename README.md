@@ -15,7 +15,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/git-commit-message-changes
 - https://www.baeldung.com/java-clear-stringbuilder-stringbuffer
 
-I've also contributed to an improvement of the following article:
+I've also contributed to improve the following articles:
 - https://www.baeldung.com/java-single-file-source-code
 - https://www.baeldung.com/java-sealed-classes-interfaces
 
