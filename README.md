@@ -19,6 +19,7 @@ Here are the articles I've written for Baeldung:
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
 - https://www.baeldung.com/java-sealed-classes-interfaces
+- https://www.baeldung.com/spring-controller-return-image-file
 
 To be continued...
 
