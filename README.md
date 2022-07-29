@@ -15,6 +15,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/git-commit-message-changes
 - https://www.baeldung.com/java-clear-stringbuilder-stringbuffer
 - https://www.baeldung.com/java-validate-xml-xsd
+- https://www.baeldung.com/java-filter-stream-unique-element
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
