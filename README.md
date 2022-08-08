@@ -22,6 +22,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
 - https://www.baeldung.com/java-sealed-classes-interfaces
 - https://www.baeldung.com/spring-controller-return-image-file
+- https://www.baeldung.com/java-performance-mapping-frameworks
 
 To be continued...
 
