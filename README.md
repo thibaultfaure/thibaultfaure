@@ -23,10 +23,11 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-sealed-classes-interfaces
 - https://www.baeldung.com/spring-controller-return-image-file
 - https://www.baeldung.com/java-performance-mapping-frameworks
+- https://www.baeldung.com/spring-kafka
 
 To be continued...
 
-For business inquiries, please send me a mail at thibault.faure@wanadoo.fr
+For business inquiries, please send me a mail at thibault.faure.pro@gmail.com
 
 <!--
 **thibaultfaure/thibaultfaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
