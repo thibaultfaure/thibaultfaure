@@ -21,6 +21,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/rebuild-docker-container-compose/
 - https://www.baeldung.com/roots-quadratic-equation/
 - https://www.baeldung.com/ops/docker-dockerfile-comments/
+- https://www.baeldung.com/java-trifunction
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
