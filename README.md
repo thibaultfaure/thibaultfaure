@@ -24,6 +24,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-trifunction
 - https://www.baeldung.com/ops/dockerfile-copy-same-subdirectory-structure/
 - https://www.baeldung.com/ops/dockerfile-path-environment-variable/
+- https://www.baeldung.com/java-paths-get-path-of/
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
