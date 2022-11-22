@@ -29,6 +29,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-edit-existing-pdf
 - https://www.baeldung.com/java-runnables-check-status
 - https://www.baeldung.com/java-max-date-list-streams
+- https://www.baeldung.com/java-object-validation-deserialization
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
