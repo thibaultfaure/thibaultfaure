@@ -38,6 +38,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-performance-mapping-frameworks
 - https://www.baeldung.com/spring-kafka
 - https://www.baeldung.com/jcache
+- https://www.baeldung.com/jackson-deserialization
 
 To be continued...
 
