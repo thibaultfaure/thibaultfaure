@@ -32,6 +32,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-object-validation-deserialization
 - https://www.baeldung.com/java-jvm-run-time-data-areas
 - https://www.baeldung.com/openapi-map-date-types
+- https://www.baeldung.com/jetbrains-contract-annotation
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
