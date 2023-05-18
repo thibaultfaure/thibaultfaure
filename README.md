@@ -34,6 +34,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/openapi-map-date-types
 - https://www.baeldung.com/jetbrains-contract-annotation
 - https://www.baeldung.com/java-longest-word-string
+- https://www.baeldung.com/restassured-send-multipartfile-request
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
