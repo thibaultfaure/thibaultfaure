@@ -35,6 +35,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/jetbrains-contract-annotation
 - https://www.baeldung.com/java-longest-word-string
 - https://www.baeldung.com/restassured-send-multipartfile-request
+- https://www.baeldung.com/ops/jenkins-git-branch-selection
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
