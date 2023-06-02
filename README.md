@@ -37,6 +37,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/restassured-send-multipartfile-request
 - https://www.baeldung.com/ops/jenkins-git-branch-selection
 - https://www.baeldung.com/gson-parsing-errors
+- https://www.baeldung.com/java-replace-pattern-word-document-doc-docx
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
