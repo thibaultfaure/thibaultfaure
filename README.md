@@ -47,6 +47,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/spring-kafka
 - https://www.baeldung.com/jcache
 - https://www.baeldung.com/jackson-deserialization
+- https://www.baeldung.com/spring-value-annotation
 
 To be continued...
 
