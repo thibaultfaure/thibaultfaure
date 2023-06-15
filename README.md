@@ -39,6 +39,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/gson-parsing-errors
 - https://www.baeldung.com/java-replace-pattern-word-document-doc-docx
 - https://www.baeldung.com/days-particular-month-given-year
+- https://www.baeldung.com/mockito-exception-wanted-but-not-invoked
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
