@@ -41,6 +41,8 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/days-particular-month-given-year
 - https://www.baeldung.com/mockito-exception-wanted-but-not-invoked
 - https://www.baeldung.com/mockito-match-null
+- https://www.baeldung.com/java-scanner-read-date
+- https://www.baeldung.com/java-mapstruct-enum-unexpected-input-exception
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
