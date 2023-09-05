@@ -45,6 +45,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-mapstruct-enum-unexpected-input-exception
 - https://www.baeldung.com/maven-resume-failed-build
 - https://www.baeldung.com/maven-fast-build
+- https://www.baeldung.com/maven-jacoco-multi-module-project
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
