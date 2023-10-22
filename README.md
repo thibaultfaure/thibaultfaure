@@ -46,6 +46,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/maven-resume-failed-build
 - https://www.baeldung.com/maven-fast-build
 - https://www.baeldung.com/maven-jacoco-multi-module-project
+- https://www.baeldung.com/java-wrap-string-number-characters-word-wise
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
@@ -56,7 +57,6 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/jcache
 - https://www.baeldung.com/jackson-deserialization
 - https://www.baeldung.com/spring-value-annotation
-- https://www.baeldung.com/java-wrap-string-number-characters-word-wise
 
 To be continued...
 
