@@ -56,6 +56,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/jcache
 - https://www.baeldung.com/jackson-deserialization
 - https://www.baeldung.com/spring-value-annotation
+- https://www.baeldung.com/java-wrap-string-number-characters-word-wise
 
 To be continued...
 
