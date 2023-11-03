@@ -47,6 +47,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/maven-fast-build
 - https://www.baeldung.com/maven-jacoco-multi-module-project
 - https://www.baeldung.com/java-wrap-string-number-characters-word-wise
+- https://www.baeldung.com/java-arrays-mismatch
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
