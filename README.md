@@ -49,6 +49,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-wrap-string-number-characters-word-wise
 - https://www.baeldung.com/java-arrays-mismatch
 - https://www.baeldung.com/java-unreachable-statements
+- https://www.baeldung.com/ops/kubernetes-pod-lifecycle
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
@@ -59,6 +60,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/jcache
 - https://www.baeldung.com/jackson-deserialization
 - https://www.baeldung.com/spring-value-annotation
+- https://www.baeldung.com/spring-spock-testing
 
 To be continued...
 
