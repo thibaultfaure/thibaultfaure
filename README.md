@@ -50,6 +50,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-arrays-mismatch
 - https://www.baeldung.com/java-unreachable-statements
 - https://www.baeldung.com/ops/kubernetes-pod-lifecycle
+- https://www.baeldung.com/java-morse-code-english-translate
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
