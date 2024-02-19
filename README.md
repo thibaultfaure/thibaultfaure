@@ -51,6 +51,8 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-unreachable-statements
 - https://www.baeldung.com/ops/kubernetes-pod-lifecycle
 - https://www.baeldung.com/java-morse-code-english-translate
+- https://www.baeldung.com/junit-5-mock-captor-method-parameter-injection
+- https://www.baeldung.com/java-equilibrium-index-array
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
@@ -62,6 +64,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/jackson-deserialization
 - https://www.baeldung.com/spring-value-annotation
 - https://www.baeldung.com/spring-spock-testing
+- https://www.baeldung.com/junit-vs-testng
 
 To be continued...
 
