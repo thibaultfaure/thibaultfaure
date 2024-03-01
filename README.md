@@ -65,6 +65,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/spring-value-annotation
 - https://www.baeldung.com/spring-spock-testing
 - https://www.baeldung.com/junit-vs-testng
+- https://www.baeldung.com/java-functional-programming
 
 To be continued...
 
