@@ -53,6 +53,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-morse-code-english-translate
 - https://www.baeldung.com/junit-5-mock-captor-method-parameter-injection
 - https://www.baeldung.com/java-equilibrium-index-array
+- https://www.baeldung.com/mockito-fix-ambiguous-method-call-error
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
