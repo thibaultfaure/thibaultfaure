@@ -68,6 +68,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/spring-spock-testing
 - https://www.baeldung.com/junit-vs-testng
 - https://www.baeldung.com/java-functional-programming
+- https://www.baeldung.com/apache-commons-beanutils
 
 To be continued...
 
