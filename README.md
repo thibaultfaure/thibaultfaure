@@ -56,6 +56,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/mockito-fix-ambiguous-method-call-error
 - https://www.baeldung.com/java-determine-easter-date-specific-year
 - https://www.baeldung.com/java-maven-pass-jvm-arguments
+- https://www.baeldung.com/java-jakarta-enterprise-edition-migration
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
