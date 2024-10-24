@@ -57,6 +57,8 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-determine-easter-date-specific-year
 - https://www.baeldung.com/java-maven-pass-jvm-arguments
 - https://www.baeldung.com/java-jakarta-enterprise-edition-migration
+- https://www.baeldung.com/ops/git-remove-merged-branches
+- https://www.baeldung.com/ops/git-recover-deleted-branch
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
@@ -71,6 +73,7 @@ I've also contributed to improving the following articles:
 - https://www.baeldung.com/junit-vs-testng
 - https://www.baeldung.com/java-functional-programming
 - https://www.baeldung.com/apache-commons-beanutils
+- https://www.baeldung.com/java-palindrome
 
 To be continued...
 
