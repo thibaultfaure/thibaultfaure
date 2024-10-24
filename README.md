@@ -12,13 +12,13 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/spring-injecting-all-annotated-beans
 - https://www.baeldung.com/java-scanner-usedelimiter
 - https://www.baeldung.com/java-unit-test-private-methods
-- https://www.baeldung.com/git-commit-message-changes
+- https://www.baeldung.com/ops/git-commit-message-changes
 - https://www.baeldung.com/java-clear-stringbuilder-stringbuffer
 - https://www.baeldung.com/java-validate-xml-xsd
 - https://www.baeldung.com/java-filter-stream-unique-element
 - https://www.baeldung.com/spring-boot-properties-env-variables
 - https://www.baeldung.com/swagger-two-responses-one-response-code
-- https://www.baeldung.com/rebuild-docker-container-compose/
+- https://www.baeldung.com/ops/rebuild-docker-container-compose/
 - https://www.baeldung.com/roots-quadratic-equation/
 - https://www.baeldung.com/ops/docker-dockerfile-comments/
 - https://www.baeldung.com/java-trifunction
