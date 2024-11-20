@@ -59,6 +59,7 @@ Here are the articles I've written for Baeldung:
 - https://www.baeldung.com/java-jakarta-enterprise-edition-migration
 - https://www.baeldung.com/ops/git-remove-merged-branches
 - https://www.baeldung.com/ops/git-recover-deleted-branch
+- https://www.baeldung.com/java-tape-equilibrium-problem
 
 I've also contributed to improving the following articles:
 - https://www.baeldung.com/java-single-file-source-code
